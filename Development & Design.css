@@ -1,0 +1,17 @@
+body {
+  background-color: whitesmoke;
+}
+
+.Top {
+  background-color: #f0db4f;
+  padding: 30px;
+  display: flex;
+}
+
+.footer {
+  background-color: #f0db4f;
+  padding: 30px;
+  justify-content: space-around;
+  display: flex;
+  text-decoration: none;
+}
